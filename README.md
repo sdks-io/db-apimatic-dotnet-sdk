@@ -19,7 +19,7 @@ Dropbox Sign v3 API
 To add the .NET SDK to your project from NuGet:
 
 ```bash
-dotnet add package DbApimaticSDK
+dotnet add package DropbApimaticSDK
 ```
 
 To build against the SDK source instead, add it as a project reference into your solution:

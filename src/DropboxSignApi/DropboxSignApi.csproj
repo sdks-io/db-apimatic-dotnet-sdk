@@ -5,8 +5,8 @@
     </PropertyGroup>
 
     <PropertyGroup>
-        <PackageId>DbApimaticSDK</PackageId>
-        <AssemblyName>DbApimaticSDK</AssemblyName>
+        <PackageId>DropbApimaticSDK</PackageId>
+        <AssemblyName>DropbApimaticSDK</AssemblyName>
         <Authors>Muhammad Rafay</Authors>
         <Description>Sample SDKs for DB by APIMatic</Description>
         <PackageProjectUrl>https://developers.hellosign.com/</PackageProjectUrl>
